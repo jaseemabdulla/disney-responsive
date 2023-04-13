@@ -1,0 +1,153 @@
+
+/*nav*/
+.nav-link{
+    color: black;
+}
+
+/*carousel*/
+img.slide:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    
+    
+}
+
+
+/*4-picture*/
+.four-picture{
+    width: 100%;
+    height: 100%;
+   
+    
+}
+.four-picture:hover{
+    cursor: pointer;
+    
+}
+.text-center{
+    margin-top: -100px;
+    font-weight: 800;
+    
+}
+@media (max-width:576px){
+    .four-picture{
+        width: 100vw;
+        height: 70vh;
+    }
+}
+@media (max-width:576px){
+    .four-picture-text{
+
+        margin-top: 100px;
+    }
+}
+
+
+/*ash-color part 1*/
+.ash-color{
+    background-color: #eee;
+}
+img.two-picture{
+    width: 100%;
+    height: 100%;
+}
+img.two-picture:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
+/*ash-color part 2*/
+img.three-picture{
+    width: 100%;
+    height: 100%;
+}
+img.three-picture{
+    cursor: pointer;
+   
+}
+.ash-color-part-2{
+    margin-top:70px;
+}
+
+/*ash-color part 2*/
+.ash-color-part-3{
+    margin-top:70px;
+}
+
+/*footer*/
+.footer{
+    margin: 50px;
+}
+.navs{
+    
+    margin-top: 15px;
+}
+/* .parks{ */
+
+
+.icons{
+    margin-top: 20px;
+    
+}
+.final-logo{
+    
+    margin-left: 40%;
+    width: 80px;
+    margin-top: 40px;
+}
+.list{
+    display: flex;
+    margin-top: 25px;
+   
+}
+.list-row{
+    display:inline-block;
+    font-size: 13px;
+    margin-left: 10px;   
+}
+.list-row:hover{
+    color: blue;
+    cursor: pointer;
+} 
+@media (max-width:990px){
+    .end-logo,.navs,.icons{
+        text-align: center;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
